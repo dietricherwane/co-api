@@ -1,0 +1,2 @@
+class FlashInfo < ApplicationRecord
+end
